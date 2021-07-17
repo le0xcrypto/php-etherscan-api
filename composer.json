@@ -1,5 +1,5 @@
 {
-  "name": "vkovic/php-maticscan-api",
+  "name": "le0xcrypto/php-maticscan-api",
   "type": "library",
   "description": "PHP client for the Etherscan API",
   "homepage": "https://github.com/maslakoff/php-etherscan-api",
